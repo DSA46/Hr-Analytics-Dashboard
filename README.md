@@ -57,29 +57,29 @@ The objective is to build an interactive dashboard that helps HR teams make data
 - Job Satisfaction Insights
 
 ## ⚡ Challenges Faced
--Data mismatch between SQL and Power BI calculations
--Handling duplicate records
--Correcting DAX filter context issues
--Ensuring accurate KPI validation
+- Data mismatch between SQL and Power BI calculations
+- Handling duplicate records
+- Correcting DAX filter context issues
+- Ensuring accurate KPI validation
 
 ## 💡 Key Insights
--Identified departments with higher attrition
--Observed relationship between salary and employee turnover
--Analyzed age groups with maximum attrition
--Found job satisfaction patterns impacting retention
+- Identified departments with higher attrition
+- Observed relationship between salary and employee turnover
+- Analyzed age groups with maximum attrition
+- Found job satisfaction patterns impacting retention
 
 ## 📚 What I Learned
--Writing optimized SQL queries
--Creating DAX measures with correct filter context
--Data cleaning best practices
--Building interactive and business-oriented dashboards
--Translating business problems into analytical solutions
+- Writing optimized SQL queries
+- Creating DAX measures with correct filter context
+- Data cleaning best practices
+- Building interactive and business-oriented dashboards
+- Translating business problems into analytical solutions
 
 ## 🚀 Future Improvements
--Implement Star Schema modeling
--Add drill-through reports
--Include predictive attrition analysis
--Automate data refresh
+- Implement Star Schema modeling
+- Add drill-through reports
+- Include predictive attrition analysis
+- Automate data refresh
 
 ## 📌 Author
 - Santhosh A
