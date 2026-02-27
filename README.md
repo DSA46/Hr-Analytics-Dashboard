@@ -48,63 +48,39 @@ The objective is to build an interactive dashboard that helps HR teams make data
 - KPI Cross-Verification
 
 ## 📊 Dashboard Features
-- <a href=
+- <a href="https://github.com/DSA46/Hr-Analytics-Dashboard/blob/main/Screenshot%202026-02-27%20004537.png">Dashboard </a>
+- KPI Cards for quick summary
+- Department-wise Attrition Analysis
+- Gender Distribution
+- Age Group Analysis
+- Salary Distribution
+- Job Satisfaction Insights
 
-KPI Cards for quick summary
+## ⚡ Challenges Faced
+-Data mismatch between SQL and Power BI calculations
+-Handling duplicate records
+-Correcting DAX filter context issues
+-Ensuring accurate KPI validation
 
-Department-wise Attrition Analysis
+## 💡 Key Insights
+-Identified departments with higher attrition
+-Observed relationship between salary and employee turnover
+-Analyzed age groups with maximum attrition
+-Found job satisfaction patterns impacting retention
 
-Gender Distribution
+## 📚 What I Learned
+-Writing optimized SQL queries
+-Creating DAX measures with correct filter context
+-Data cleaning best practices
+-Building interactive and business-oriented dashboards
+-Translating business problems into analytical solutions
 
-Age Group Analysis
+## 🚀 Future Improvements
+-Implement Star Schema modeling
+-Add drill-through reports
+-Include predictive attrition analysis
+-Automate data refresh
 
-Salary Distribution
-
-Job Satisfaction Insights
-
-⚡ Challenges Faced
-
-Data mismatch between SQL and Power BI calculations
-
-Handling duplicate records
-
-Correcting DAX filter context issues
-
-Ensuring accurate KPI validation
-
-💡 Key Insights
-
-Identified departments with higher attrition
-
-Observed relationship between salary and employee turnover
-
-Analyzed age groups with maximum attrition
-
-Found job satisfaction patterns impacting retention
-
-📚 What I Learned
-
-Writing optimized SQL queries
-
-Creating DAX measures with correct filter context
-
-Data cleaning best practices
-
-Building interactive and business-oriented dashboards
-
-Translating business problems into analytical solutions
-
-🚀 Future Improvements
-
-Implement Star Schema modeling
-
-Add drill-through reports
-
-Include predictive attrition analysis
-
-Automate data refresh
-
-📌 Author
-
-Santhosh Claussen
-Aspiring Data Analyst | Power BI | SQL | Excel
+## 📌 Author
+- Santhosh A
+- Aspiring Data Analyst | Power BI | SQL | Excel
