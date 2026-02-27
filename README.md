@@ -18,59 +18,37 @@ The objective is to build an interactive dashboard that helps HR teams make data
 - DAX (Data Analysis Expressions) – KPI calculations
 
 ## 📂 Dataset Description
+- <a href="https://github.com/DSA46/Hr-Analytics-Dashboard/blob/main/HR%20Data.xlsx">Dataset <a/>
+### The dataset contains employee-related information such as:
+- Employee ID
+- Age
+- Gender
+- Department
+- Salary
+- Job Role
+- Job Satisfaction
+- Attrition Status
+
+## 📈 Key KPIs Implemented
+- Total Employees
+- Total Attrition
+- Attrition Rate (%)
+- Average Salary
+- Average Age
+- Department-wise Headcount
+- Job Satisfaction Score
+
+## 🔄 Project Workflow
+- Data Cleaning using Excel
+- Data Validation using SQL queries
+- Data Import into Power BI
+- Data Modeling
+- DAX Measure Creation
+- Dashboard Design & Visualization
+- KPI Cross-Verification
+
+## 📊 Dashboard Features
 - <a href=
-
-The dataset contains employee-related information such as:
-
-Employee ID
-
-Age
-
-Gender
-
-Department
-
-Salary
-
-Job Role
-
-Job Satisfaction
-
-Attrition Status
-
-📈 Key KPIs Implemented
-
-Total Employees
-
-Total Attrition
-
-Attrition Rate (%)
-
-Average Salary
-
-Average Age
-
-Department-wise Headcount
-
-Job Satisfaction Score
-
-🔄 Project Workflow
-
-Data Cleaning using Excel
-
-Data Validation using SQL queries
-
-Data Import into Power BI
-
-Data Modeling
-
-DAX Measure Creation
-
-Dashboard Design & Visualization
-
-KPI Cross-Verification
-
-📊 Dashboard Features
 
 KPI Cards for quick summary
 
